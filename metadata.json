@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Sound Transcriber",
+  "description": "A real-time audio transcription application using the Gemini API. Speak into your microphone and see your words transcribed into text in either English or Thai.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
